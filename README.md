@@ -3,5 +3,4 @@
 
 # DuLab products list
 
-## 1. Low jitter Re-Clockers
-(https://github.com/iancanada/DocumentDownload/tree/master/FifoPi/FifoPiQ7)
+## 1. TDA1541 Board

@@ -6,3 +6,6 @@
 ## 1. TDA1541 Board
 
 ## 2. Opamp Adapter Single to Dual (Compatible for Sonic Imagery Labs 992enh-ticha, Burson V6, ...)
+
+## 3. Low noise linear Power Supply using CRC Filter
+
